@@ -1,7 +1,7 @@
 # ZAPRET-ROBLOX🔥
-# ССЫЛКА НА СКАЧИВАНИЕ НИЖЕ
+# ССЫЛКА НА СКАЧИВАНИЕ НИЖЕ // LINK TO DOWNLOAD LOWER
 https://github.com/0pgaq/zapret-roblox/blob/main/zapret-roblox.rar
-## (НАЖМИ НА RAW ЧТОБЫ СКАЧАТЬ)
+## (НАЖМИ НА RAW ЧТОБЫ СКАЧАТЬ // CLICK "RAW" TO DOWNLOAD)
 ## RU // ЭТО ОСОБЫЙ ЗАПРЕТ, ДРУГИЕ НЕ РАБОТАЮТ
 1. Разархивируйте/Распакуйте файл;
 2. Открываем "service.bat";
